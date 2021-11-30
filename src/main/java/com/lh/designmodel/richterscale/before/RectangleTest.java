@@ -1,4 +1,4 @@
-package com.lh.designmodel.richterscale;
+package com.lh.designmodel.richterscale.before;
 
 public class RectangleTest {
 
